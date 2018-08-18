@@ -4,8 +4,8 @@ _________________----------------------------------------___________
 _________________-----------------------------------__________________
 
 
-N-Reader is a Network Reader  (Scanner) tool which make easy to scan Network.
-N-Reader also cotains D0S/ DDOS in it ..so  Please be carefull when using it..
+N-Reader is a Network Reader  (Scanner) tool which make's easy to scan Network.
+N-Reader also cotains D0S/ DDOS tool in it ..so  Please be carefull when using it..
 
 *******************************************
 Steps To Use :-
@@ -19,5 +19,5 @@ Steps To Use :-
 ENJOY
 *****************************************************
 
-If Fount any Bug then please contact to Admin => www/gkaim.com/contact-us/
+Note=> If Found any Bug then please contact to Admin => www.gkaim.com/contact-us/
 
