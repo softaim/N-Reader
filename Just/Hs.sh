@@ -32,7 +32,7 @@ read -p "Enter your choice: " ch
 if [ $ch == 0 ]
 then
 cd ..
-chmod + N-Reader.sh
+chmod +X N-Reader.sh
 ./N-Reader.sh
 fi
 if [ $ch -le 12 ] 
